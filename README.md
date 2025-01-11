@@ -7,13 +7,12 @@ Frontend Mentor challenges provide realistic projects to help developers enhance
 ## *Table of Contents*  
 - [Overview](#overview)  
   - [The Challenge](#the-challenge)  
-  - [Solution URL](#solution-url)  
-  - [Live Site URL](#live-site-url)  
+  
 - [Features](#features)  
 - [Built With](#built-with)  
 - [Installation and Setup](#installation-and-setup)  
 - [Useful Resources](#useful-resources)  
-- [Author](#author)  
+
 
 ---
 
@@ -27,21 +26,11 @@ This e-commerce solution allows users to:
 - Adjust product quantities in the cart.  
 - Fill out all required fields in the checkout form.  
 - Receive real-time form validations for incorrect or missing fields during checkout.  
-- View accurate checkout totals, including:  
-  - $50 shipping costs per order.  
-  - 20% VAT calculated based on the product total (excluding shipping).  
 - Receive an order confirmation modal with a detailed order summary.  
 - Maintain cart state, even after refreshing the browser.  
 
 ---
 
-### *Solution URL*  
-Provide your [Solution URL here](#).  
-
-### *Live Site URL*  
-The live application is hosted at: [https://audio-commerce.netlify.app/](https://audio-commerce.netlify.app/)  
-
----
 
 ## *Features*  
 - *Responsive Design:* A fully responsive layout that works seamlessly on desktop, tablet, and mobile devices.  
